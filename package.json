@@ -1,0 +1,8 @@
+{
+  "name": "photo-geolocator-entry",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Model-free photo geolocator for make.fun photo-geolocator-01: every photo placed at the haversine geometric median of the kit practice photos.",
+  "license": "MIT"
+}
